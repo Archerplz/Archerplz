@@ -6,6 +6,7 @@
 [![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCByLN-ofW1b_RNew9Tns6Sw)
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/Archerplz)
+[![riot](https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white)](https://tracker.gg/valorant/profile/riot/TD%20Archer%23true/overview)
 
 ![Archerplz GitHub stats](https://github-readme-stats.vercel.app/api?username=archerplz&_icons=true&theme=dracula)
 
