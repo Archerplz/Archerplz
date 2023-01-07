@@ -26,5 +26,5 @@
 - Discord: Archer#7048<br/>
 
 # Tecnologias mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archerplz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archerplz&layout=compact)](https://github.com/archerplz/github-readme-stats)
 
